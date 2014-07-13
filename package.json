@@ -1,0 +1,37 @@
+{
+  "name": "build-meta-data",
+  "version": "0.1.0",
+  "description": "A NodeJS library designed to track meta information for build code (designed to be used with build tools to GulpJS/GruntJS)",
+  "keywords": [
+    "build",
+    "meta-data"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ryanzec/build-meta-data"
+  },
+  "bugs": {
+    "url": "https://github.com/ryanzec/build-meta-data/issues"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Ryan Zec",
+    "email": "code@ryanzec.com",
+    "url": "http://www.ryanzec.com"
+  },
+  "dependencies": {
+    "glob-array": "0.1.0",
+    "lodash": "2.4.1",
+    "mkdirp": "0.5.0"
+  },
+  "devDependencies": {
+    "mocha": "1.18.2",
+    "chai": "1.9.1",
+    "sinon": "1.9.1",
+    "co": "3.0.6"
+  },
+  "engines": {
+    "node": ">=0.10.25"
+  },
+  "main": "lib/index.js"
+}
