@@ -20,7 +20,7 @@
     "url": "http://www.ryanzec.com"
   },
   "dependencies": {
-    "glob-array": "0.1.0",
+    "glob-array": "0.1.1",
     "lodash": "2.4.1",
     "mkdirp": "0.5.0"
   },
