@@ -1,6 +1,6 @@
 {
   "name": "build-meta-data",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A NodeJS library designed to track meta information for build code (designed to be used with build tools to GulpJS/GruntJS)",
   "keywords": [
     "build",
