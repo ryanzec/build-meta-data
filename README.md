@@ -1,11 +1,1 @@
-# Build Meta Data
-
-A NodeJS library to store meta data about files related to building code (designed to be used with tools like GUlpJS/GruntJS).
-
-# Usage
-
-TODO
-
-# License
-
-MIT
+I am not longer maintaining this project, I would recommend using WebPack (https://github.com/webpack/webpack) for a web build tool.
